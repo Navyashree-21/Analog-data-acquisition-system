@@ -39,3 +39,9 @@ void loop() {
 
   delay(2000); // Delay 2 seconds between readings
 }
+
+
+
+
+
+
