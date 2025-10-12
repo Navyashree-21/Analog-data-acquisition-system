@@ -32,5 +32,11 @@ Upload the provided code to the microcontroller.
 ->Run & Monitor:
 Open the serial monitor (or LCD display) to view real-time temperature and humidity readings.
 
+Block diagram:
+
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/248f9f19-3231-4830-a57f-482159e6a1d1" />
+
+
 
 
